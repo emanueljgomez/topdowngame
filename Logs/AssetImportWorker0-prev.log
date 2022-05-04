@@ -1,0 +1,489 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.33f1 (915a7af8b0d5) revision 9525882'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10  (10.0.19044) 64bit Professional' Language: 'es' Physical Memory: 16249 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.33f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/Emanuel/Documents/Proyectos Unity/topdowngame
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+62582
+Successfully changed project path to: C:/Users/Emanuel/Documents/Proyectos Unity/topdowngame
+C:/Users/Emanuel/Documents/Proyectos Unity/topdowngame
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 38.06 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.33f1 (915a7af8b0d5)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.33f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/Emanuel/Documents/Proyectos Unity/topdowngame/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GT 730 (ID=0x1287)
+    Vendor:   
+    VRAM:     2007 MB
+    Driver:   30.0.14.7212
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.33f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.33f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.33f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56216
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.33f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.33f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001829 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 33.90 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.769 seconds
+Domain Reload Profiling:
+	ReloadAssembly (770ms)
+		BeginReloadAssembly (83ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (0ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (1ms)
+		EndReloadAssembly (600ms)
+			LoadAssemblies (77ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (202ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (64ms)
+			SetupLoadedEditorAssemblies (197ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (6ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (34ms)
+				BeforeProcessingInitializeOnLoad (15ms)
+				ProcessInitializeOnLoadAttributes (111ms)
+				ProcessInitializeOnLoadMethodAttributes (31ms)
+				AfterProcessingInitializeOnLoad (0ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (0ms)
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.002657 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\Emanuel\Documents\Proyectos Unity\topdowngame\Library\PackageCache\com.unity.collab-proxy@1.15.15\Lib\Editor\PlasticSCM\unityplastic.dll
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.41 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.382 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1383ms)
+		BeginReloadAssembly (212ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (6ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (33ms)
+		EndReloadAssembly (1096ms)
+			LoadAssemblies (125ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (394ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (61ms)
+			SetupLoadedEditorAssemblies (411ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (8ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (125ms)
+				ProcessInitializeOnLoadAttributes (261ms)
+				ProcessInitializeOnLoadMethodAttributes (10ms)
+				AfterProcessingInitializeOnLoad (5ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (7ms)
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.09 seconds
+Refreshing native plugins compatible for Editor in 0.36 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1511 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 68.8 MB.
+System memory in use after: 68.8 MB.
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 1947.
+Total: 2.795500 ms (FindLiveObjects: 0.135100 ms CreateObjectMapping: 0.061500 ms MarkObjects: 2.522100 ms  DeleteObjects: 0.076000 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  path: Assets
+  artifactKey: Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets using Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '42d402b061de3733987d63b9cc3b64de') in 0.016358 seconds 
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 2.36 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 9 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 38.6 MB.
+System memory in use after: 38.7 MB.
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 1947.
+Total: 3.703500 ms (FindLiveObjects: 0.138300 ms CreateObjectMapping: 0.061600 ms MarkObjects: 3.476200 ms  DeleteObjects: 0.026100 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 87.589458 seconds.
+  path: Assets/Barbarian/Models/Materials/Accessories_Color.mat
+  artifactKey: Guid(0445816b09919c74ead2df9a0fc65e17) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Barbarian/Models/Materials/Accessories_Color.mat using Guid(0445816b09919c74ead2df9a0fc65e17) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5e639dedc916887e2c60b4a59afb08a9') in 0.536081 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000197 seconds.
+  path: Assets/Barbarian/Models/Materials/eyeline.mat
+  artifactKey: Guid(d4ab7e6ebc9c6524ab779f33c8aecd38) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Barbarian/Models/Materials/eyeline.mat using Guid(d4ab7e6ebc9c6524ab779f33c8aecd38) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '59471a18234fe392984ade2c2a7ab47a') in 0.026173 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000232 seconds.
+  path: Assets/Barbarian/Models/Materials/eye_R1.mat
+  artifactKey: Guid(bf152e0647e91ca41a9ea84cc5360cf0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Barbarian/Models/Materials/eye_R1.mat using Guid(bf152e0647e91ca41a9ea84cc5360cf0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c69ded6a4492c298008d66f56bc6902e') in 0.149227 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000245 seconds.
+  path: Assets/Barbarian/Models/Materials/eyebase.mat
+  artifactKey: Guid(c2a37abe15acef24fb2692d575d7410b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Barbarian/Models/Materials/eyebase.mat using Guid(c2a37abe15acef24fb2692d575d7410b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '52cf2b8acb4f906418b67279de0959df') in 0.023858 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000227 seconds.
+  path: Assets/Barbarian/Models/Materials/Eyeball.mat
+  artifactKey: Guid(e71a1cd9037fc904699892c6e3dbebdf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Barbarian/Models/Materials/Eyeball.mat using Guid(e71a1cd9037fc904699892c6e3dbebdf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '15c7414e0cb9d976ad4599ad5b6f4888') in 0.030631 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000291 seconds.
+  path: Assets/Barbarian/Models/Materials/Left.mat
+  artifactKey: Guid(f9e3a7e8ae96ffb449b6e4b1d1e3c641) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Barbarian/Models/Materials/Left.mat using Guid(f9e3a7e8ae96ffb449b6e4b1d1e3c641) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '75286097db86e8f979636e9f1f857a20') in 0.034407 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000206 seconds.
+  path: Assets/Barbarian/Models/Materials/face.mat
+  artifactKey: Guid(91539e7d927efa04c922dc3548bb897f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Barbarian/Models/Materials/face.mat using Guid(91539e7d927efa04c922dc3548bb897f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c4f43c83ae271ce9b2fd53ae322e60f5') in 0.035595 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000550 seconds.
+  path: Assets/Barbarian/Models/Materials/eye_L1.mat
+  artifactKey: Guid(2bf4665455842854a9f88a9863769717) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Barbarian/Models/Materials/eye_L1.mat using Guid(2bf4665455842854a9f88a9863769717) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cd16c950068cbede711923987bc54a8d') in 0.022314 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000360 seconds.
+  path: Assets/Barbarian/Models/Materials/Right.mat
+  artifactKey: Guid(16ab165a9bfbce24d8c1d39350be5e03) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Barbarian/Models/Materials/Right.mat using Guid(16ab165a9bfbce24d8c1d39350be5e03) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5b771bf3c24c977eebdbec4525a8650f') in 0.025086 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000218 seconds.
+  path: Assets/Barbarian/Models/Materials/Body_Color.mat
+  artifactKey: Guid(724a80f104a481849809405a76cceff0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Barbarian/Models/Materials/Body_Color.mat using Guid(724a80f104a481849809405a76cceff0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '82a2755d3f3586246af54ddcac3073e8') in 0.345185 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000244 seconds.
+  path: Assets/Barbarian/Models/Materials/lambert1.mat
+  artifactKey: Guid(b05c6f0444b771e4c94ea60e1d9c7c3f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Barbarian/Models/Materials/lambert1.mat using Guid(b05c6f0444b771e4c94ea60e1d9c7c3f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '052312df24075d4b61ce10192c6bea8f') in 0.245553 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 3.368291 seconds.
+  path: Assets/Barbarian/Models/Textures/Accessories_Color.jpg
+  artifactKey: Guid(36d23f014be285d4f8c613c55a606793) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Barbarian/Models/Textures/Accessories_Color.jpg using Guid(36d23f014be285d4f8c613c55a606793) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dd2acb089e9ceb94afb8d62b6bfdccf6') in 0.053758 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000243 seconds.
+  path: Assets/Barbarian/Models/Textures/Accessories_Spec.jpg
+  artifactKey: Guid(433e204e29c577b4ba2314ca6f225800) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Barbarian/Models/Textures/Accessories_Spec.jpg using Guid(433e204e29c577b4ba2314ca6f225800) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '24ae920be992cce271d0d3a7d62ab126') in 0.028724 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.003153 seconds.
+  path: Assets/Barbarian/Models/Textures/Body_Color.jpg
+  artifactKey: Guid(9e478f052d1a4d149a19b75fe55c36e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Barbarian/Models/Textures/Body_Color.jpg using Guid(9e478f052d1a4d149a19b75fe55c36e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6e770ad30c04f5bfdfdc3eebe278cd1a') in 0.026008 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000191 seconds.
+  path: Assets/Barbarian/Models/Textures/Accessories_normal.jpg
+  artifactKey: Guid(93fa1a7b6c78cdd4f9c43df143b22830) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Barbarian/Models/Textures/Accessories_normal.jpg using Guid(93fa1a7b6c78cdd4f9c43df143b22830) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7da789671b3568e00c003b94bcafcc96') in 0.038132 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000253 seconds.
+  path: Assets/Barbarian/Models/Textures/AXE_Normal.jpg
+  artifactKey: Guid(46857570cfb7abd4cbedae7d30b7dc00) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Barbarian/Models/Textures/AXE_Normal.jpg using Guid(46857570cfb7abd4cbedae7d30b7dc00) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e5b63292a35a22b8ec839b9d7ccb35fc') in 0.030942 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000203 seconds.
+  path: Assets/Barbarian/Models/Textures/AXE_Color.jpg
+  artifactKey: Guid(af0a8c8b851cc244b96d67ee07e76ce8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Barbarian/Models/Textures/AXE_Color.jpg using Guid(af0a8c8b851cc244b96d67ee07e76ce8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '83f3fa120ece40005f3ea416675eb237') in 0.029443 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000738 seconds.
+  path: Assets/Barbarian/Models/Textures/Body_Normal.jpg
+  artifactKey: Guid(e248d1d5781a7b443841818cb6aec2dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Barbarian/Models/Textures/Body_Normal.jpg using Guid(e248d1d5781a7b443841818cb6aec2dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c3fbcf6050cd28fed9b5cb3b25c831b9') in 0.055076 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 15.062217 seconds.
+  path: Assets/Barbarian/Scenes/BarbarianSceneSettings.lighting
+  artifactKey: Guid(1d51785432e6077458682802c8deac73) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Barbarian/Scenes/BarbarianSceneSettings.lighting using Guid(1d51785432e6077458682802c8deac73) Importer(815301076,1909f56bfc062723c751e8b465ee728b) LightingSettings: switching bake backend from 1 to 0.
+ -> (artifact id: 'a40e48bf8cec58276ed0ddaae816ad03') in 0.017886 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.166313 seconds.
+  path: Assets/Barbarian/Scenes/BarbarianScene.unity
+  artifactKey: Guid(217cd16008950154891ebbe5e41a0727) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Barbarian/Scenes/BarbarianScene.unity using Guid(217cd16008950154891ebbe5e41a0727) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f4c5dd6b7a144fb0cbcc5611c0faaa73') in 0.010916 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 31.172064 seconds.
+  path: Assets/Scenes/SampleScene.unity
+  artifactKey: Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene.unity using Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4c5ddf9ce26820e39365ee4aff447d0e') in 0.013900 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 5.329303 seconds.
+  path: Assets/Barbarian/Animators/Barbarian Animator Controller.controller
+  artifactKey: Guid(8615e1444db51e7458fde3300b2fd44b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Barbarian/Animators/Barbarian Animator Controller.controller using Guid(8615e1444db51e7458fde3300b2fd44b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '87d621f170621b60c30aaec2437281e2') in 0.019642 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 12.106250 seconds.
+  path: Assets/Barbarian/Models/Textures/Emos/Emo0.png
+  artifactKey: Guid(f42ae39266f5ad94eac1d31eebc9258b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Barbarian/Models/Textures/Emos/Emo0.png using Guid(f42ae39266f5ad94eac1d31eebc9258b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '71a95aec04d44aacd1572af636fbddd7') in 0.042154 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000245 seconds.
+  path: Assets/Barbarian/Models/Textures/Emos/Motion2.png
+  artifactKey: Guid(c57998ba7d5b72642b74db1b5f7637b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Barbarian/Models/Textures/Emos/Motion2.png using Guid(c57998ba7d5b72642b74db1b5f7637b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '616a253f63badbf874a64d5cf078e5a0') in 0.024491 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000194 seconds.
+  path: Assets/Barbarian/Models/Textures/Emos/Emo1.png
+  artifactKey: Guid(a9ec92c2fa948bc458705883f774e37a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Barbarian/Models/Textures/Emos/Emo1.png using Guid(a9ec92c2fa948bc458705883f774e37a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6ffa76748e8ea2411e82ef3c27d157c6') in 0.049791 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000197 seconds.
+  path: Assets/Barbarian/Models/Textures/Emos/Emo4.png
+  artifactKey: Guid(bf81ef8624fcbb547a92d2066d1f5ebb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Barbarian/Models/Textures/Emos/Emo4.png using Guid(bf81ef8624fcbb547a92d2066d1f5ebb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8550013b0aa8b5129a329c74749e9e5b') in 0.026821 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000189 seconds.
+  path: Assets/Barbarian/Models/Textures/Emos/Emo3.png
+  artifactKey: Guid(694e8353962d22a4cb92ff1691e619e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Barbarian/Models/Textures/Emos/Emo3.png using Guid(694e8353962d22a4cb92ff1691e619e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cc5a85483beb6d1bfc778161a9b6ae69') in 0.037219 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000201 seconds.
+  path: Assets/Barbarian/Models/Textures/Emos/Emo2.png
+  artifactKey: Guid(babd8ef23ced27d4d9cbf8326b8e338a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Barbarian/Models/Textures/Emos/Emo2.png using Guid(babd8ef23ced27d4d9cbf8326b8e338a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6fdd7300a6f281df78a854a57a3e5935') in 0.034336 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000186 seconds.
+  path: Assets/Barbarian/Models/Textures/Emos/Emo5.png
+  artifactKey: Guid(522b22113e616cf468f707d0b17301f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Barbarian/Models/Textures/Emos/Emo5.png using Guid(522b22113e616cf468f707d0b17301f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ff77e378d9543d41e7186826e415c202') in 0.028752 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000196 seconds.
+  path: Assets/Barbarian/Models/Textures/Emos/Motion1.png
+  artifactKey: Guid(dda4a841db7888443ae510e94d325ebc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Barbarian/Models/Textures/Emos/Motion1.png using Guid(dda4a841db7888443ae510e94d325ebc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bc5702cbd8db56e1e783dc3066218ae0') in 0.029874 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000238 seconds.
+  path: Assets/Barbarian/Models/Textures/Emos/Motion0.png
+  artifactKey: Guid(3d63a2e0270a41c498b6ba423d79cabb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Barbarian/Models/Textures/Emos/Motion0.png using Guid(3d63a2e0270a41c498b6ba423d79cabb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8d2243f230cf4ca9320c2d623aff2255') in 0.027920 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000196 seconds.
+  path: Assets/Barbarian/Models/Textures/Emos/Emo6.png
+  artifactKey: Guid(201fbede16b77194fb2634bd03778003) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Barbarian/Models/Textures/Emos/Emo6.png using Guid(201fbede16b77194fb2634bd03778003) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3c8ddba5fdf095e1aa53b26f9ed9411e') in 0.032974 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000203 seconds.
+  path: Assets/Barbarian/Models/Textures/Emos/Motion3.png
+  artifactKey: Guid(87eb1257fd0d20040a06901db0e30660) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Barbarian/Models/Textures/Emos/Motion3.png using Guid(87eb1257fd0d20040a06901db0e30660) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '31e043bd541e28cf6ed91c188b6b7740') in 0.035375 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 4.007945 seconds.
+  path: Assets/Barbarian/Models/Barbarian.fbx
+  artifactKey: Guid(859c3def7b0fdca4ba4a59bb97a3cb47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Barbarian/Models/Barbarian.fbx using Guid(859c3def7b0fdca4ba4a59bb97a3cb47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '34961d048753fe6a4b486111b82f5718') in 0.299965 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 77.212940 seconds.
+  path: Assets/Scripts/PlayerMovement.cs
+  artifactKey: Guid(aa7eadeec5105dc45a664d0681819796) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/PlayerMovement.cs using Guid(aa7eadeec5105dc45a664d0681819796) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '27177d8c9d6b07e2dcd7fe36ace7efbd') in 0.010499 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002740 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\Emanuel\Documents\Proyectos Unity\topdowngame\Library\PackageCache\com.unity.collab-proxy@1.15.15\Lib\Editor\PlasticSCM\unityplastic.dll
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.40 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.325 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1325ms)
+		BeginReloadAssembly (153ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (7ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (46ms)
+		EndReloadAssembly (1090ms)
+			LoadAssemblies (113ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (422ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (48ms)
+			SetupLoadedEditorAssemblies (392ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (12ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (0ms)
+				BeforeProcessingInitializeOnLoad (149ms)
+				ProcessInitializeOnLoadAttributes (215ms)
+				ProcessInitializeOnLoadMethodAttributes (9ms)
+				AfterProcessingInitializeOnLoad (5ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (7ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.47 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1505 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 86.1 MB.
+System memory in use after: 86.2 MB.
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 2002.
+Total: 4.379100 ms (FindLiveObjects: 0.202900 ms CreateObjectMapping: 0.079000 ms MarkObjects: 4.036200 ms  DeleteObjects: 0.059100 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004457 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\Emanuel\Documents\Proyectos Unity\topdowngame\Library\PackageCache\com.unity.collab-proxy@1.15.15\Lib\Editor\PlasticSCM\unityplastic.dll
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.38 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.201 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1202ms)
+		BeginReloadAssembly (155ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (12ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (41ms)
+		EndReloadAssembly (977ms)
+			LoadAssemblies (121ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (356ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (48ms)
+			SetupLoadedEditorAssemblies (359ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (6ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (0ms)
+				BeforeProcessingInitializeOnLoad (96ms)
+				ProcessInitializeOnLoadAttributes (236ms)
+				ProcessInitializeOnLoadMethodAttributes (15ms)
+				AfterProcessingInitializeOnLoad (5ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (7ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.40 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1505 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 86.2 MB.
+System memory in use after: 86.3 MB.
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 2005.
+Total: 3.536300 ms (FindLiveObjects: 0.139100 ms CreateObjectMapping: 0.058200 ms MarkObjects: 3.312800 ms  DeleteObjects: 0.025100 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
